@@ -1,5 +1,5 @@
 # ICMC2025
-A collection of tools
+A collection of tools for Risset composition
 
 <b>Musical examples</b>
 <ul>
