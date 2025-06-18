@@ -1,7 +1,7 @@
 # ICMC2025
 A collection of tools for Risset composition and performance
 
-This repo has been cast in amber to document my ICMC2025 presentation. For the latest versions of the devices here, please go to https://github.com/stretta/looseleaf looseleaf
+This repo has been cast in amber to document my ICMC2025 presentation. For the latest versions of the devices here, please go to https://github.com/stretta/looseleaf
 
 <b>Musical examples</b>
 <ul>
