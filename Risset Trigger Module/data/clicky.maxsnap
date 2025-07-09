@@ -1,0 +1,209 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "clicky",
+	"origin" : "clicky",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 0,
+	"snapshot" : 	{
+		"__sps" : 		{
+			"out3" : 			{
+				"stages" : 				{
+					"value" : 16.0
+				}
+,
+				"duration" : 				{
+					"value" : 10.0
+				}
+,
+				"lowerlimitoftop" : 				{
+					"value" : 0.5
+				}
+,
+				"note" : 				{
+					"value" : 36.0
+				}
+,
+				"upperlimitofbottom" : 				{
+					"value" : 0.5
+				}
+
+			}
+,
+			"out4" : 			{
+				"stages" : 				{
+					"value" : 16.0
+				}
+,
+				"duration" : 				{
+					"value" : 10.0
+				}
+,
+				"lowerlimitoftop" : 				{
+					"value" : 0.5
+				}
+,
+				"note" : 				{
+					"value" : 36.0
+				}
+,
+				"upperlimitofbottom" : 				{
+					"value" : 0.5
+				}
+
+			}
+,
+			"out1" : 			{
+				"stages" : 				{
+					"value" : 16.0
+				}
+,
+				"duration" : 				{
+					"value" : 10.0
+				}
+,
+				"lowerlimitoftop" : 				{
+					"value" : 0.5
+				}
+,
+				"note" : 				{
+					"value" : 48.0
+				}
+,
+				"upperlimitofbottom" : 				{
+					"value" : 0.5
+				}
+
+			}
+,
+			"out2" : 			{
+				"stages" : 				{
+					"value" : 16.0
+				}
+,
+				"duration" : 				{
+					"value" : 10.0
+				}
+,
+				"lowerlimitoftop" : 				{
+					"value" : 0.5
+				}
+,
+				"note" : 				{
+					"value" : 50.0
+				}
+,
+				"upperlimitofbottom" : 				{
+					"value" : 0.5
+				}
+
+			}
+,
+			"out7" : 			{
+				"stages" : 				{
+					"value" : 16.0
+				}
+,
+				"duration" : 				{
+					"value" : 10.0
+				}
+,
+				"lowerlimitoftop" : 				{
+					"value" : 0.5
+				}
+,
+				"note" : 				{
+					"value" : 59.0
+				}
+,
+				"upperlimitofbottom" : 				{
+					"value" : 0.5
+				}
+
+			}
+,
+			"out8" : 			{
+				"stages" : 				{
+					"value" : 16.0
+				}
+,
+				"duration" : 				{
+					"value" : 10.0
+				}
+,
+				"lowerlimitoftop" : 				{
+					"value" : 0.5
+				}
+,
+				"note" : 				{
+					"value" : 60.0
+				}
+,
+				"upperlimitofbottom" : 				{
+					"value" : 0.5
+				}
+
+			}
+,
+			"out5" : 			{
+				"stages" : 				{
+					"value" : 16.0
+				}
+,
+				"duration" : 				{
+					"value" : 10.0
+				}
+,
+				"lowerlimitoftop" : 				{
+					"value" : 0.5
+				}
+,
+				"note" : 				{
+					"value" : 55.0
+				}
+,
+				"upperlimitofbottom" : 				{
+					"value" : 0.5
+				}
+
+			}
+,
+			"out6" : 			{
+				"stages" : 				{
+					"value" : 16.0
+				}
+,
+				"duration" : 				{
+					"value" : 10.0
+				}
+,
+				"lowerlimitoftop" : 				{
+					"value" : 0.5
+				}
+,
+				"note" : 				{
+					"value" : 57.0
+				}
+,
+				"upperlimitofbottom" : 				{
+					"value" : 0.5
+				}
+
+			}
+
+		}
+,
+		"rate" : 		{
+			"value" : 0.2
+		}
+,
+		"play" : 		{
+			"value" : 0.0
+		}
+,
+		"__presetid" : "clicky"
+	}
+
+}
